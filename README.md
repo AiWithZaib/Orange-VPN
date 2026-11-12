@@ -63,7 +63,6 @@ Orange VPN provides high-speed, encrypted proxy and VPN connectivity designed to
 ## Official Links
 
 - **Main Portal**: [https://orange-vpn.com](https://orange-vpn.com)
-- **API Endpoint**: [https://api.orange-vpn.com](https://api.orange-vpn.com)
 - **Support & Inquiries**: [https://orange-vpn.com](https://orange-vpn.com)
 
 ---
